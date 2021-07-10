@@ -1,2 +1,2 @@
 # altium_lib
-Modified Libraries for Altium for personal use
+Modified Libraries for Altium. For personal use
